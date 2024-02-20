@@ -1,14 +1,9 @@
-Hi, my name is Pranav Banuru
-==============================
+### About Me 👋
 
-Seeking SWE / MLE Positions | CS @ UC Irvine (2023)
+#### Seeking SWE / MLE Positions | CS @ UC Irvine (2023)
 ---------------------------------------------------
 
-I am seeking SWE / MLE positions where I can help build things that make the world a more compassionate place. 
-
-I also have a strong interest and background in Machine Learning. I have developed multiple projects involving AI music generation, AI vocal separation, language learning tools, VR story games, and more. 
-
-I'm creative and versatile in applying programming to different domains.
+I like to build things that make the world a more compassionate place. 
 
 * 🌍  Based in the San Francisco Bay Area
 * ✉️  You can contact me at [pranavb373@gmail.com](mailto:pranavb373@gmail.com) or on LinkedIn
