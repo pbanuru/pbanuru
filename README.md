@@ -10,9 +10,9 @@ I also have a strong interest and background in Machine Learning. I have develop
 
 I'm creative and versatile in applying programming to different domains.
 
-* 🌍  I'm based in the San Francisco Bay Area
+* 🌍  Based in the San Francisco Bay Area
 * ✉️  You can contact me at [pranavb373@gmail.com](mailto:pranavb373@gmail.com) or on LinkedIn
-* 🧠  I'm learning how to make an LLM, do RAG, and other ML topics.
+* 🧠  I'm learning how to make an LLM, do RAG, and about other ML topics.
 
 
 ### Skills
