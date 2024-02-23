@@ -7,8 +7,7 @@ I like to build things that make the world a more compassionate place.
 
 * 🌍  Based in the San Francisco Bay Area
 * ✉️  You can contact me at [pranavb373@gmail.com](mailto:pranavb373@gmail.com) or on LinkedIn
-* 🧠  I'm learning how to make an LLM, do RAG, and about other ML topics.
-
+* 🧠  I'm learning how to make an LLM and about other ML topics. Also learning about application security topics.
 
 ### Skills
 
