@@ -1,6 +1,6 @@
 ### About Me 👋
 
-#### Seeking SWE / MLE Positions | CS @ UC Irvine (2023)
+#### Seeking SWE / MLE Positions | CS @ UC Irvine
 ---------------------------------------------------
 
 I like to build things that make the world a more compassionate place. 
