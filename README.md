@@ -7,7 +7,7 @@ I like to build things that make the world a more compassionate place.
 
 * 🌍  Based in the San Francisco Bay Area
 * ✉️  You can contact me on [LinkedIn](https://www.linkedin.com/in/pbanuru) or at [pranavb373@gmail.com](mailto:pranavb373@gmail.com).
-* 🧠  I'm learning how to make an LLM and about other ML topics. Also learning about application security topics.
+* 🧠  I'm continuing to practice Machine Learning Topics. I am looking for work, so please let me know if you are looking.
 
 ### Skills
 
