@@ -3,11 +3,12 @@
 #### Seeking SWE / MLE Positions | CS @ UC Irvine
 ---------------------------------------------------
 
+Hi, I'm Pranav! I'm strongest in the areas of Python and Machine Learning. I have experience in model deployment, software development, and in improving performance. I've worked at two startups. At a stealth startup, I developed a customized text-to-speech service on AWS EC2 and created an a high-throughput API for it. At Open Paws, I deployed data labeling software with CI/CD features and wrote many automations for data ingestion. I have developed multiple projects involving Audio APIs, AI music generation, AI vocal separation, a language learning tool, a VR story game, and more. I'm looking to apply my skills, to expand them, and to bring something new into the world! Kindly reach out if you have any opportunities.
 I like to build things that make the world a more compassionate place. 
 
 * 🌍  Based in the San Francisco Bay Area
 * ✉️  You can contact me on [LinkedIn](https://www.linkedin.com/in/pbanuru) or at [pranavb373@gmail.com](mailto:pranavb373@gmail.com).
-* 🧠  I'm continuing to practice Machine Learning Topics. I am looking for work, so please let me know if you are looking.
+* 🧠  I'm am looking for work, so please let me know if you are looking.
 
 ### Skills
 
