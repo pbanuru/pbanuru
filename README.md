@@ -5,7 +5,8 @@
 
 Hi, I'm Pranav! I'm strongest in the areas of Python and Machine Learning. I have experience in model deployment, software development, and improving performance.
 
-I've worked at two startups:
+I've worked at three startups:
+- **LyricWinter.com**: An AI text/story -> audio platform that uses voice cloning to let people listen to fanfictions and stories being narrated in the voices of the characters in the story. (I'm the founder)
 - **Stealth Startup**: Developed a customized text-to-speech service on AWS EC2 and created a high-throughput API for it.
 - **Open Paws**: Deployed data labeling software with CI/CD features and wrote many automations for data ingestion.
 
